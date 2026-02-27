@@ -1,2 +1,3 @@
-# profit-mix-optimizer7
-התאמת מסלולי השקעה בקרנות השתלמות
+# Profit Mix Optimizer (Streamlit)
+
+Main file: app.py
